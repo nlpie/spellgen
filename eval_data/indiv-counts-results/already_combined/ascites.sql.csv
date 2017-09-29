@@ -1,0 +1,3 @@
+ascites,distinct_count_id,registration_id,terms,label,correct_spelling_count,potential_marginal_count,actual_marginal_count
+ascites,9,9,"( ascities OR ascitis OR acites OR asites OR ascited OR ascite OR scites OR asicites OR asciites OR acsites OR asictes OR asities ) NOT ascites",Mrn,49727,18220,14039
+ascites,10,9,"( ascities OR ascitis OR acites OR asites OR ascited OR ascite OR scites OR asicites OR asciites OR acsites OR asictes OR asities ) NOT ascites","Note Id",410548,28982,28982

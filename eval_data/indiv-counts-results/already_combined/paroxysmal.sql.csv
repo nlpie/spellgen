@@ -1,0 +1,3 @@
+paroxysmal,distinct_count_id,registration_id,terms,label,correct_spelling_count,potential_marginal_count,actual_marginal_count
+paroxysmal,11,12,"( paroxsysmal OR paroxymal OR paroxysml OR paroxismal OR parosysmal OR paraxysmal OR paroxsmal OR paroxsymal OR paroxysysmal ) NOT paroxysmal",Mrn,107698,3570,1000
+paroxysmal,12,12,"( paroxsysmal OR paroxymal OR paroxysml OR paroxismal OR parosysmal OR paraxysmal OR paroxsmal OR paroxsymal OR paroxysysmal ) NOT paroxysmal","Note Id",519097,7239,7239

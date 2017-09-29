@@ -1,0 +1,3 @@
+cirrhosis,distinct_count_id,registration_id,terms,label,correct_spelling_count,potential_marginal_count,actual_marginal_count
+cirrhosis,13,16,"( cirrhoses OR cirhosis OR cirrohosis OR cirrosis OR cirrhosi OR cirrrhosis OR chirrhosis OR cirrhois OR cirhhosis OR cirrhoisis OR cirrhossis OR dirrhosis OR cirrohsis OR chirrosis OR cirhossis OR cirrohis OR cirrohisis ) NOT cirrhosis",Mrn,30938,2045,401
+cirrhosis,14,16,"( cirrhoses OR cirhosis OR cirrohosis OR cirrosis OR cirrhosi OR cirrrhosis OR chirrhosis OR cirrhois OR cirhhosis OR cirrhoisis OR cirrhossis OR dirrhosis OR cirrohsis OR chirrosis OR cirhossis OR cirrohis OR cirrohisis ) NOT cirrhosis","Note Id",371264,6795,6795

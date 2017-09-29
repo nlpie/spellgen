@@ -1,0 +1,3 @@
+serotonin,distinct_count_id,registration_id,terms,label,correct_spelling_count,potential_marginal_count,actual_marginal_count
+serotonin,3,8,"( seritonin OR seretonin OR seratonin OR serotinin OR sertonin OR serontonin OR serotonine ) NOT serotonin",Mrn,20307,1952,1259
+serotonin,4,8,"( seritonin OR seretonin OR seratonin OR serotinin OR sertonin OR serontonin OR serotonine ) NOT serotonin","Note Id",55992,3530,3530

@@ -1,0 +1,3 @@
+basilar,distinct_count_id,registration_id,terms,label,correct_spelling_count,potential_marginal_count,actual_marginal_count
+basilar,15,15,"( basillar OR basiliar OR basalar ) NOT basilar",Mrn,67192,618,186
+basilar,16,15,"( basillar OR basiliar OR basalar ) NOT basilar","Note Id",216205,1144,1144

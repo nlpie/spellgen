@@ -1,0 +1,486 @@
+Enter word or sentence (EXIT to break): serotonin
+
+Word: serotonin  Position in vocabulary: 13350
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                         seritonin		0.569988	1	45	0.569988
+                                         seretonin		0.569679	1	23	0.569679
+                                         seratonin		0.554482	1	1089	0.554482
+                                         serotinin		0.539499	1	16	0.539499
+                                          sertonin		0.448637	1	7	0.448637
+                                        serontonin		0.438943	1	8	0.438943
+                                        serotonine		0.433907	1	6	0.433907
+
+
+Word: seborrheic  Position in vocabulary: 5669
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                       seborrhoeic		0.734372	1	822	0.734372
+                                        seborrhoic		0.651500	1	98	0.651500
+                                         seborrhic		0.626147	1	58	0.626147
+                                         seborheic		0.625679	1	171	0.625679
+                                       seborrheica		0.612356	1	62	0.612356
+                                       sebborrheic		0.567804	1	17	0.567804
+                                         seborreic		0.564629	1	19	0.564629
+                                       seborrhetic		0.553733	1	10	0.553733
+                                       sebhorrheic		0.550863	1	6	0.550863
+                                       seborrheics		0.276861	1	7	0.276861
+                                        seborrehic		0.584510	2	16	-0.017550
+                                        sebborheic		0.584302	2	20	-0.017758
+                                        seborrheal		0.542603	2	39	-0.059457
+                                        sebhorreic		0.511868	2	20	-0.090192
+                                          seborric		0.506584	2	13	-0.095476
+                                        seborrhiec		0.495563	2	17	-0.106497
+                                         seborrhea		0.298522	2	6033	-0.303538 	EXCLUDED/DIFF TERM (noun)
+                                         sebhoreic		0.582767	3	10	-0.371476
+
+Word: paroxysmal  Position in vocabulary: 4309
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                       paroxsysmal		0.468244	1	195	0.468244
+                                         paroxymal		0.461663	1	244	0.461663
+                                         paroxysml		0.379302	1	11	0.379302
+                                        paroxismal		0.298855	1	117	0.298855
+                                        parosysmal		0.297092	1	17	0.297092
+                                        paraxysmal		0.280572	1	45	0.280572
+                                         paroxsmal		0.271055	1	13	0.271055
+                                        paroxsymal		0.617962	2	893	0.015902
+                                         paroxysms		0.342345	2	2279	-0.259714	EXCLUDED/STEM
+                                          paroxysm		0.308667	2	227	-0.293393	EXCLUDED/STEM
+                                      paroxysmally		0.282340	2	34	-0.319720	EXCLUDED/STEM
+                                      paroxysysmal		0.273800	2	21	-0.328260
+
+
+Word: basilar  Position in vocabulary: 8329
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                          basillar		0.407355	1	29	0.407355
+                                          basiliar		0.379329	1	22	0.379329
+                                           basalar		0.350001	1	43	0.350001
+
+
+
+Word: chalazion  Position in vocabulary: 19322
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                        chalazions		0.551207	1	59	0.551207	EXCLUDED/STEM
+                                          chalzion		0.443260	1	18	0.443260
+                                         chelazion		0.411737	1	6	0.411736
+
+
+
+Word: chlamydia  Position in vocabulary: 4152
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                          clamydia		0.662953	1	146	0.662953
+                                         chlamidia		0.633222	1	93	0.633222
+                                          chamydia		0.562143	1	51	0.562143
+                                          chlmydia		0.556718	1	45	0.556718
+                                        chylamydia		0.541435	1	27	0.541435
+                                          chlamdia		0.511512	1	17	0.511512
+                                         chlamycia		0.506011	1	11	0.506011
+                                         chlymydia		0.501975	1	22	0.501975
+                                        chlaymydia		0.498769	1	20	0.498769
+                                          chlamyia		0.494259	1	8	0.494259
+                                          chlamydi		0.454721	1	8	0.454721
+                                        chlyamydia		0.452361	1	8	0.452361
+                                        chlamydial		0.425941	1	3713	0.425941	EXCLUDED/DIFF TERM (adjective)
+                                        chalamydia		0.417290	1	8	0.417290
+                                          chlaydia		0.355165	1	5	0.355165
+                                          chlamyda		0.302643	1	6	0.302643
+                                        chlamydiae		0.295010	1	33	0.295010
+                                         chlaymdia		0.631716	2	70	0.029656
+                                         chalmydia		0.630104	2	191	0.028044
+                                         chlymidia		0.595505	2	168	-0.006555
+                                         chlamyida		0.550515	2	27	-0.051545
+                                         chlymadia		0.544151	2	24	-0.057909
+                                         chlamidya		0.513505	2	29	-0.088555
+                                         chlamdyia		0.510351	2	28	-0.091709
+                                         chlmaydia		0.504662	2	27	-0.097398
+                                        chlaymidia		0.504496	2	12	-0.097564
+                                          chlymdia		0.474802	2	21	-0.127258
+                                         chylamdia		0.452925	2	11	-0.149135
+                                           chlamyd		0.436321	2	12	-0.165739
+                                        chylamidia		0.371013	2	15	-0.231047
+
+Word: ascites  Position in vocabulary: 3685
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                          ascities		0.814361	1	1437	0.814361
+                                           ascitis		0.657014	1	401	0.657014
+                                            acites		0.509067	1	123	0.509067
+                                            asites		0.420459	1	33	0.420459
+                                           ascited		0.414515	1	49	0.414515
+                                            ascite		0.411812	1	46	0.411812
+                                            scites		0.351232	1	21	0.351232
+                                          asicites		0.327947	1	13	0.327947
+                                          asciites		0.311275	1	12	0.311275
+                                           ascitic		0.646134	2	4925	0.044074	EXCLUDED/STEM DIFF TERM (adjective)
+                                           acsites		0.493561	2	42	-0.108499
+                                          ascitics		0.473971	2	87	-0.128089	EXCLUDED/STEM DIFF TERM (adjective)
+                                           acities		0.468964	2	134	-0.133096
+                                           asictes		0.437506	2	39	-0.164554
+                                           ascties		0.357130	2	16	-0.244930
+                                           asities		0.275266	2	8	-0.326794
+
+Word: cirrhosis  Position in vocabulary: 3493
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                         cirrhoses		0.653122	1	1239	0.653122	INCLUDED/NOT STEMMED
+                                          cirhosis		0.603209	1	150	0.603209
+                                        cirrohosis		0.597716	1	104	0.597716
+                                          cirrosis		0.594545	1	196	0.594545
+                                          cirrhosi		0.428711	1	6	0.428711
+                                        cirrrhosis		0.427291	1	22	0.427291
+                                        chirrhosis		0.427126	1	11	0.427126
+                                          cirrhois		0.424171	1	36	0.424171
+                                         cirhhosis		0.399545	1	13	0.399545
+                                        cirrhoisis		0.395042	1	26	0.395042
+                                        cirrhossis		0.328618	1	7	0.328618
+                                         dirrhosis		0.293940	1	5	0.293940
+                                         cirrohsis		0.597279	2	636	-0.004781
+                                         cirrhotic		0.590316	2	2886	-0.011744	EXCLUDED/DIFF TERM (adjective)
+                                         chirrosis		0.504638	2	79	-0.097422
+                                         cirhossis		0.429145	2	21	-0.172915
+                                          cirrohis		0.413631	2	29	-0.188429
+                                        cirrhotics		0.366333	2	28	-0.235727	EXCLUDED/DIFF TERM (adjective)
+                                        cirrohisis		0.357036	2	12	-0.245024
+
+
+Word: color  Position in vocabulary: 1432
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                            colour		0.517217	1	281	0.517217
+                                            colore		0.297016	1	16	0.297016
+                                              colr		0.261115	1	18	0.261115
+                                           colored		0.586354	2	86891	-0.015706	EXCLUDED/STEM
+                                              odor		0.429181	2	97989	-0.172879	EXCLUDED/DIFF TERM
+                                           incolor		0.366571	2	14	-0.235489	EXCLUDED/DIFF TERM
+                                              cler		0.320869	2	109	-0.281191	EXCLUDED/DIFF TERM (misspelled)
+                                              cool		0.302677	2	81558	-0.299383	EXCLUDED/DIFF TERM
+
+
+Word: anesthesia  Position in vocabulary: 273
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                       anaesthesia		0.581388	1	3097	0.581388
+                                         anethesia		0.525437	1	1117	0.525437
+                                        anasthesia		0.482390	1	238	0.482390
+                                         anesthsia		0.434791	1	235	0.434791
+                                         anestheia		0.337968	1	86	0.337968
+                                         aneshesia		0.330986	1	61	0.330986
+                                        anesthisia		0.306692	1	41	0.306692
+                                       andesthesia		0.303737	1	13	0.303737
+                                         aesthesia		0.293859	1	19	0.293859
+                                         anestesia		0.267278	1	121	0.267278
+                                       anesethesia		0.258061	1	117	0.258061
+                                        anesthetia		0.251525	1	31	0.251525
+                                         anesthesa		0.237312	1	25	0.237312
+                                       ansesthesia		0.235723	1	19	0.235723
+                                       anesathesia		0.235249	1	8	0.235249
+                                        anesthetic		0.568015	2	571359	-0.034045	EXCLUDED/DIFF TERM
+                                        anestheisa		0.439662	2	124	-0.162398
+                                          anesthia		0.407447	2	159	-0.194613
+                                      mdanesthesia		0.308570	2	75	-0.293490
+                                        aneshtesia		0.308108	2	103	-0.293952
+                                        anesethsia		0.305753	2	21	-0.296307
+                                        ansethesia		0.284136	2	57	-0.317924
+                                         anathesia		0.282417	2	21	-0.319643
+                                          anthesia		0.271612	2	46	-0.330448
+                                       anesthestic		0.256528	2	1515	-0.345532	EXCLUDED/DIFF TERM
+                                          anethsia		0.241578	2	13	-0.360482
+                                        anethesisa		0.236641	2	5	-0.365419
+                                       anesthetics		0.349045	3	3183	-0.605197	EXCLUDED/SCORE
+                                       anaesthetic		0.291419	3	162	-0.662824	EXCLUDED/SCORE
+                                       anesthetist		0.283020	3	1850	-0.671223	EXCLUDED/SCORE
+
+( anaesthesia OR anethesia OR anasthesia OR anesthsia OR anestheia OR aneshesia OR anesthisia OR andesthesia OR aesthesia OR anestesia OR anesethesia OR anesthetia OR anesthesa OR ansesthesia OR anesathesia OR anestheisa OR anesthia OR aneshtesia OR anesethsia OR ansethesia OR anathesia OR anthesia OR anethsia OR anethesisa ) NOT anesthesia
+
+
+Word: melanoma  Position in vocabulary: 4437
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                          melonoma		0.547115	1	312	0.547115
+                                          melenoma		0.509955	1	361	0.509955
+                                         melanomas		0.492703	1	715	0.492703	EXCLUDED/STEM
+                                          melanoms		0.452300	1	14	0.452300
+                                           melaoma		0.382044	1	7	0.382044
+                                          melinoma		0.373562	1	19	0.373562
+                                          melanona		0.304160	1	8	0.304160
+                                           melnoma		0.299783	1	19	0.299783
+                                            meloma		0.340922	2	12	-0.261138	EXCLUDED/DIFF TERM
+                                           melasma		0.313791	2	1920	-0.288269
+                                       nonmelanoma		0.594749	3	2876	-0.359494	EXCLUDED/DIFF TERM
+                                          seminoma		0.405451	3	2007	-0.548792	EXCLUDED/SCORE
+
+( melonoma OR melenoma OR melanoms OR melaoma OR melinoma OR melanona OR melnoma ) NOT melanoma
+
+
+Word: glioblastoma  Position in vocabulary: 14773
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                       gliobastoma		0.622038	1	36	0.622038
+                                       gioblastoma		0.531798	1	14	0.531798
+                                      glioblastome		0.485268	1	5	0.485268
+                                       glioblatoma		0.429433	1	5	0.429433
+                                       gliblastoma		0.386804	1	14	0.386804
+
+Word: pancreatitis  Position in vocabulary: 2461
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                       pancreatits		0.723724	1	418	0.723724
+                                       pancreaitis		0.555053	1	39	0.555053
+                                     pancreatitits		0.544802	1	72	0.544802
+                                      pancreatitic		0.535569	1	521	0.535569
+                                       pancretitis		0.532511	1	82	0.532511
+                                       pancratitis		0.511176	1	105	0.511176
+                                      pancreatitus		0.489039	1	50	0.489039
+                                       pancreatiis		0.481671	1	18	0.481671
+                                     pancreatiitis		0.453569	1	11	0.453569
+                                       pacreatitis		0.449561	1	87	0.449561
+                                     pancareatitis		0.435395	1	16	0.435395
+                                       ancreatitis		0.428946	1	7	0.428946
+                                     pancretatitis		0.415723	1	12	0.415723
+                                       pancreattis		0.411582	1	9	0.411582
+                                       panreatitis		0.409090	1	48	0.409090
+                                     pancreatities		0.401707	1	16	0.401707
+                                     pancreatittis		0.388498	1	15	0.388498
+                                      pancreatisis		0.382771	1	21	0.382771
+                                     pancreartitis		0.368543	1	6	0.368543
+                                       pancreatiti		0.356769	1	10	0.356769
+                                       panceatitis		0.341044	1	29	0.341044
+                                     pancreastitis		0.336301	1	24	0.336301
+                                        pancreatis		0.771761	2	741	0.169701
+                                      pnacreatitis		0.504879	2	14	-0.097181
+                                      pancreatiits		0.476641	2	37	-0.125419
+                                       pancreatitc		0.341561	2	30	-0.260499
+                                      panceratitis		0.339120	2	16	-0.262940
+                                      pancraetitis		0.285178	2	23	-0.316882
+                                        pancreatic		0.550389	3	131285	-0.403853	EXCLUDED/STEM
+
+( pancreatits OR pancreaitis OR pancreatitits OR pancreatitic OR pancretitis OR pancratitis OR pancreatitus OR pancreatiis OR pancreatiitis OR pacreatitis OR pancareatitis OR ancreatitis OR pancretatitis OR pancreattis OR panreatitis OR pancreatities OR pancreatittis OR pancreatisis OR pancreartitis OR pancreatiti OR panceatitis OR pancreastitis OR pancreatis OR pnacreatitis OR pancreatiits OR panceratitis OR pancraetitis) NOT pancreatitis
+
+
+Word: abdomen  Position in vocabulary: 416
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                           abdomin		0.736990	1	10648	0.736990
+                                          abdoment		0.464562	1	235	0.464562
+                                            abomen		0.373188	1	194	0.373188
+                                            adomen		0.337623	1	180	0.337623
+                                           abdoman		0.328824	1	1185	0.328824
+                                            abdmen		0.320384	1	73	0.320384
+                                          abdonmen		0.260291	1	8	0.260291
+                                          abdomina		0.431842	2	896	-0.170218
+                                           abodmen		0.304592	2	258	-0.297468
+                                           adbomen		0.270541	2	91	-0.331519
+                                         abdomenal		0.248065	2	793	-0.353995	EXCLUDED/STEM
+                                          abdmonen		0.236078	2	14	-0.365982
+                                         abdominal		0.578269	3	2534435	-0.375974	EXCLUDED/STEM
+
+( abdomin OR abdoment OR abomen OR adomen OR abdoman OR abdmen OR abdonmen OR abdomina OR abodmen OR adbomen) NOT abdomen
+
+
+Word: aneurysm  Position in vocabulary: 3300
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                         aneurysms		0.813805	1	6919	0.813805	EXCLUDED/STEM
+                                          aneurism		0.802982	1	1757	0.802982
+                                           anerysm		0.647551	1	184	0.647551
+                                           anurysm		0.583039	1	223	0.583039
+                                         anneurysm		0.567728	1	52	0.567729
+                                           aneurym		0.542568	1	44	0.542568
+                                         aneurysym		0.540870	1	24	0.540870
+                                         aneuryism		0.528297	1	53	0.528297
+                                           aneuysm		0.519054	1	84	0.519054
+                                          aneusysm		0.469613	1	16	0.469613
+                                         aneursysm		0.430548	1	13	0.430548
+                                          aneyrysm		0.393633	1	14	0.393633
+                                           aneurys		0.380766	1	9	0.380766
+                                           aneursm		0.377005	1	15	0.377005
+                                         anerurysm		0.356615	1	5	0.356615
+                                         aneurysum		0.349639	1	12	0.349639
+                                         aneurysim		0.340727	1	9	0.340727
+                                           aeurysm		0.323047	1	16	0.323047
+                                          ameurysm		0.314640	1	5	0.314640
+                                          annurysm		0.312132	1	6	0.312132
+                                          aneurysn		0.309379	1	10	0.309379
+                                          anuerysm		0.754302	2	623	0.152242
+                                          aneursym		0.670529	2	3260	0.068469
+                                        aneurysmal		0.589101	2	4696	-0.012959	EXCLUDED/STEM
+                                         aneurisms		0.534982	2	234	-0.067078	EXCLUDED/STEM
+                                           anurism		0.530296	2	71	-0.071764
+                                            aneury		0.506819	2	12	-0.095241
+                                          aneuryms		0.504459	2	45	-0.097601
+                                          aneuyrsm		0.486133	2	36	-0.115927
+                                          aneruysm		0.445055	2	30	-0.157005
+
+( aneurism OR anerysm OR anurysm OR anneurysm OR aneurym OR aneurysym OR aneuryism OR aneuysm OR aneusysm OR aneursysm OR aneyrysm OR aneurys OR aneursm OR anerurysm OR aneurysum OR aneurysim OR aeurysm OR ameurysm OR annurysm OR aneurysn OR anuerysm OR aneursym OR anurism OR aneury OR aneuryms OR aneuyrsm OR aneruysm) NOT aneurysm
+
+
+Word: warfarin  Position in vocabulary: 986
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                           warfain		0.515030	1	264	0.515030
+                                           warfarn		0.384235	1	33	0.384235
+                                         warafarin		0.382004	1	29	0.382004
+                                           wararin		0.370164	1	54	0.370164
+                                           wafarin		0.329358	1	2422	0.329358
+                                          warfaron		0.289088	1	5	0.289088
+                                         warrfarin		0.285236	1	6	0.285236
+                                         warfaring		0.264875	1	21	0.264875
+                                          warfatin		0.244376	1	7	0.244376
+                                           warfrin		0.241703	1	392	0.241703
+                                           warafin		0.380963	2	140	-0.221097
+                                            warfin		0.377340	2	244	-0.224720
+                                          warfarni		0.316510	2	9	-0.285550
+                                          warfairn		0.307339	2	282	-0.294721
+                                          warafrin		0.272713	2	68	-0.329347
+                                          coumadin		0.721244	5	885759	-0.676696	EXCLUDED/SCORE
+
+( warfain OR warfarn OR warafarin OR wararin OR wafarin OR warfaron OR warrfarin OR warfatin OR warfrin OR warafin OR warfin OR warfarni  OR warfairn OR warafrin ) NOT warfarin
+
+
+Word: blepharoplasty  Position in vocabulary: 11903
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                     blephroplasty		0.672083	1	92	0.672083
+                                    blephoroplasty		0.552315	1	17	0.552315
+                                     blepharoplasy		0.526126	1	17	0.526126
+                                    blepheroplasty		0.506263	1	35	0.506263
+                                    blephanoplasty		0.485743	1	5	0.485743
+                                     blepharoplaty		0.462003	1	6	0.462003
+                                     blepharoplast		0.445756	1	6	0.445756
+                                     blepharplasty		0.389360	1	25	0.389360
+                                    bletharoplasty		0.316088	1	5	0.316088
+                                      blephoplasty		0.505970	2	22	-0.096090
+                                    belpharoplasty		0.463711	2	8	-0.138349
+                                   bhlepheroplasty		0.386124	2	7	-0.215936
+                                    blephoraplasty		0.376216	2	14	-0.225844
+                                     blefaroplasty		0.353874	2	7	-0.248186
+                                     blephorplasty		0.333382	2	11	-0.268678
+                                  blepharoplasties		0.618005	3	68	-0.336237 	EXCLUDED/STEM
+
+( blephroplasty OR blephoroplasty OR blepharoplasy OR blepheroplasty OR blephanoplasty OR blepharoplaty OR blepharoplast OR blepharplasty OR bletharoplasty OR blephoplasty OR belpharoplasty OR bhlepheroplasty OR blephoraplasty OR blefaroplasty blephorplasty) NOT blepharoplasty
+
+
+Word: dysfunction  Position in vocabulary: 1885
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                       disfunction		0.775417	1	990	0.775417
+                                        dysfuntion		0.670138	1	401	0.670138
+                                        dysfuction		0.622780	1	325	0.622780
+                                        dyfunction		0.554097	1	114	0.554097
+                                        dysfuncion		0.479746	1	53	0.479746
+                                      dysfunctions		0.478362	1	601	0.478362 	EXCLUDED/STEM
+                                        dysfnction		0.391420	1	13	0.391420
+                                        dysunction		0.320053	1	27	0.320053
+                                        dysfuncton		0.299413	1	13	0.299413
+                                      dyusfunction		0.290840	1	14	0.290840
+                                      dysnfunction		0.284745	1	8	0.284745
+                                        dysfunctin		0.246603	1	29	0.246603
+                                        dysfunctio		0.225921	1	16	0.225921
+                                       dysfucntion		0.526180	2	163	-0.075880
+                                       dysfunciton		0.502495	2	97	-0.099565
+                                        disfuction		0.449857	2	12	-0.152203
+                                       dsyfunction		0.423041	2	105	-0.179019
+                                       dysfunctino		0.333122	2	8	-0.268938
+                                        disfuntion		0.302761	2	7	-0.299299
+                                         dysfuncti		0.294052	2	9	-0.308008
+                                       dysfuntcion		0.272362	2	10	-0.329698
+                                      disfunctions		0.254941	2	7	-0.347119 	EXCLUDED/STEM
+                                          dysfunct		0.511288	3	616	-0.442955 	EXCLUDED/SCORE
+
+( disfunction OR dysfuntion OR dysfuction OR dyfunction OR dysfuncion OR dysfnction OR dysunction OR dysfuncton OR dyusfunction OR dysnfunction OR dysfunctin OR dysfunctio OR dysfucntion OR dysfunciton OR disfuction OR dsyfunction OR dysfunctino OR disfuntion OR dysfuncti OR dysfuntcion  ) NOT dysfunction
+
+Word: oophorectomy  Position in vocabulary: 4707
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                      oopherectomy		0.901192	1	4483	0.901192
+                                       oophrectomy		0.832090	1	1232	0.832090
+                                       ophorectomy		0.659999	1	134	0.659999
+                                       ooporectomy		0.622037	1	104	0.622037
+                                       oohorectomy		0.533608	1	31	0.533608
+                                       oophorectmy		0.528570	1	65	0.528570
+                                       oophorectom		0.487748	1	6	0.487748
+                                      oopharectomy		0.481501	1	43	0.481501
+                                       oophorctomy		0.473043	1	5	0.473043
+                                       oophorecomy		0.466734	1	5	0.466734
+                                     oorphorectomy		0.451357	1	6	0.451357
+                                     ooophorectomy		0.447733	1	9	0.447733
+                                       oophoectomy		0.441771	1	12	0.441771
+                                     oophoreectomy		0.420369	1	5	0.420369
+                                      oophorectemy		0.409199	1	6	0.409199
+                                       oophoretomy		0.405701	1	10	0.405701
+                                     oophorectomyv		0.402579	1	10	0.402579
+                                     oophoerectomy		0.395126	1	6	0.395126
+                                       opherectomy		0.652003	2	103	0.049943
+                                       oopherctomy		0.582844	2	26	-0.019216
+                                       oophorotomy		0.541917	2	11	-0.060143
+                                        oophectomy		0.527567	2	31	-0.074493
+                                        ophrectomy		0.525354	2	28	-0.076706
+                                       ooperectomy		0.494957	2	68	-0.107103
+                                      oophorecotmy		0.489924	2	7	-0.112136
+                                      oophoerctomy		0.476973	2	5	-0.125087
+                                      oohporectomy		0.468364	2	5	-0.133696
+                                      oophroectomy		0.455249	2	9	-0.146811
+                                       oopheectomy		0.436641	2	6	-0.165419
+                                      oopherectemy		0.425564	2	8	-0.176496
+
+( oopherectomy OR oophrectomy OR ophorectomy OR ooporectomy OR oohorectomy OR oophorectmy OR oophorectom OR oopharectomy OR oophorctomy OR oophorecomy OR oorphorectomy OR ooophorectomy OR oophoectomy OR oophoreectomy OR oophorectemy OR oophoretomy OR oophorectomyv OR oophoerectomy OR opherectomy OR oopherctomy OR oophorotomy OR oophectomy OR ophrectomy OR ooperectomy OR oophorecotmy OR oophoerctomy OR oohporectomy OR oophroectomy OR oopheectomy OR oopherectemy ) NOT oophorectomy
+
+Word: murmur  Position in vocabulary: 739
+
+                                              Word                 Cosine      ED    Frequency         Score
+------------------------------------------------------------------------
+                                           murmurs		0.752331	1	373170	0.752331 	EXCLUDED/STEM
+                                            murmer		0.634730	1	7121	0.634730
+                                             mumur		0.384290	1	1553	0.384290
+                                             murmu		0.340629	1	75	0.340629
+                                           murmmur		0.310074	1	30	0.310074
+                                            murmus		0.297138	1	150	0.297138
+                                            mutmur		0.286787	1	5	0.286787
+                                           murmure		0.244636	1	18	0.244636
+                                            murmor		0.228163	1	51	0.228163
+                                             mrmur		0.218754	1	5	0.218754
+                                            mummur		0.215923	1	28	0.215923
+                                             murur		0.205487	1	10	0.205487
+                                            murmru		0.275018	2	43	-0.327042
+                                           murmers		0.269179	2	2592	-0.332881
+                                            mumurs		0.265692	2	783	-0.336368
+                                            mummer		0.245240	2	36	-0.356820
+                                              murm		0.225468	2	31	-0.376592
+                                            mrumur		0.222455	2	17	-0.379605
+                                               mur		0.322607	3	242	-0.631635 	EXCLUDED/SCORE
+
+( murmer OR mumur OR murmu OR murmmur OR murmus OR mutmur OR murmor OR mrmur OR mummur OR murur OR murmru OR murmers OR mumurs OR mummer OR murm OR mrumur ) NOT murmur
+
+
+score = log10f( pow(10,bestd[a]) / (ldist*ldist) );
+
+
+
+
+
+
+
+

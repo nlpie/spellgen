@@ -1,0 +1,3 @@
+term,distinct_count_id,registration_id,terms,label,correct_spelling_count,potential_marginal_count,actual_marginal_count
+murmur,9,7,"( murmer OR mumur OR murmu OR murmmur OR murmus OR mutmur OR murmor OR mrmur OR mummur OR murur OR murmru OR murmers OR mumurs OR mummer OR murm OR mrumur ) NOT murmur","Note Id",13459312,107616,107616
+murmur,10,7,"( murmer OR mumur OR murmu OR murmmur OR murmus OR mutmur OR murmor OR mrmur OR mummur OR murur OR murmru OR murmers OR mumurs OR mummer OR murm OR mrumur ) NOT murmur",Mrn,1486260,57124,5949

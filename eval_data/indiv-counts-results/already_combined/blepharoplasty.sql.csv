@@ -1,0 +1,3 @@
+term,distinct_count_id,registration_id,terms,label,correct_spelling_count,potential_marginal_count,actual_marginal_count
+blepharoplasty,5,9,"( blephroplasty OR blephoroplasty OR blepharoplasy OR blepheroplasty OR blephanoplasty OR blepharoplaty OR blepharoplast OR blepharplasty OR bletharoplasty OR blephoplasty OR belpharoplasty OR bhlepheroplasty OR blephoraplasty OR blefaroplasty OR blephorplasty) NOT blepharoplasty","Note Id",46134,1620,1620
+blepharoplasty,6,9,"( blephroplasty OR blephoroplasty OR blepharoplasy OR blepheroplasty OR blephanoplasty OR blepharoplaty OR blepharoplast OR blepharplasty OR bletharoplasty OR blephoplasty OR belpharoplasty OR bhlepheroplasty OR blephoraplasty OR blefaroplasty OR blephorplasty) NOT blepharoplasty",Mrn,8268,605,237
